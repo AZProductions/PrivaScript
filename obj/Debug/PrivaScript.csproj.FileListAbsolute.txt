@@ -1,0 +1,10 @@
+F:\Projects\PrivaScript\App\PrivaScript\bin\Debug\PrivaScript.exe.config
+F:\Projects\PrivaScript\App\PrivaScript\bin\Debug\PrivaScript.exe
+F:\Projects\PrivaScript\App\PrivaScript\bin\Debug\PrivaScript.pdb
+F:\Projects\PrivaScript\App\PrivaScript\obj\Debug\PrivaScript.csprojAssemblyReference.cache
+F:\Projects\PrivaScript\App\PrivaScript\obj\Debug\PrivaScript.Main.resources
+F:\Projects\PrivaScript\App\PrivaScript\obj\Debug\PrivaScript.Properties.Resources.resources
+F:\Projects\PrivaScript\App\PrivaScript\obj\Debug\PrivaScript.csproj.GenerateResource.cache
+F:\Projects\PrivaScript\App\PrivaScript\obj\Debug\PrivaScript.csproj.CoreCompileInputs.cache
+F:\Projects\PrivaScript\App\PrivaScript\obj\Debug\PrivaScript.exe
+F:\Projects\PrivaScript\App\PrivaScript\obj\Debug\PrivaScript.pdb
