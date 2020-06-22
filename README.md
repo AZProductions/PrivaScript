@@ -1,0 +1,2 @@
+# PrivaScript
+Free - Fast - WebBrowser
